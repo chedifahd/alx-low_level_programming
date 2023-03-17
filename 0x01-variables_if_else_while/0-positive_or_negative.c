@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - generates a random number and prints if it's positive, negative, or zero
  *
@@ -28,3 +29,4 @@ int main(void)
 
     return (0);
 }
+
